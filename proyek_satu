@@ -1,0 +1,9 @@
+<Html>
+<Body>
+<H1>Oracle</H1>
+<H2>10a</H2>
+<Script>
+Alert("Selamat datang")
+</Script>
+</Body>
+</HTML>
